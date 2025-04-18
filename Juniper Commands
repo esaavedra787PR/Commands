@@ -1,5 +1,21 @@
 Show configurations | display set| match vlan
+-Para buscar un vlan en especifico
+
+show ethernet-switching table vlan <vlan-id>
+-Para poder ver mac address del VLAN
 
 
-Show 
+show interfaces diagnostics optics <interface-name>
+-Para ver valores opticos en una interface
+
+
+show interfaces <interface-name> 
+-Informacion de la interface y last flap
+
+show system commit
+- Para ver quien hizo cambios
+
+show system alarms
+
+
  

@@ -1,2 +1,5 @@
 get system performance status
-Para poder ver uptime reciente
+-Para poder ver uptime reciente
+
+get system arp
+-Para ver si se conectan con las intras. 

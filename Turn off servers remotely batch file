@@ -1,0 +1,25 @@
+@echo off
+
+:: Servers to shut down:
+
+:: - NAME: 192.168.0.000
+
+:: - NAME: 192.168.0.000
+
+:: -NAME: 192.168.0.000
+
+:: - NAME001: 192.168.0.00
+
+ 
+
+shutdown /s /f /m \\192.168.0. 000
+
+timeout /t 5
+
+shutdown /s /f /m \\192.168.0. 000
+
+timeout /t 5
+
+shutdown /s /f /m  \\192.168.0. 000
+
+shutdown /s /f /m  \\192.168.0. 000

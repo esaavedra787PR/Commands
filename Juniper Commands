@@ -17,5 +17,8 @@ show system commit
 
 show system alarms
 
+show route (IP)
+-Para ver ruta de IP
+
 
  
